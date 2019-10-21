@@ -641,7 +641,7 @@ ts-mention.ts_tip:hover
    color: var(--text);
 }
 .p-emoji_picker__preview_text {
-   background-color: var(--bacground-elevated);
+   background-color: var(--background-elevated);
    color: var(--text);
 }
 
